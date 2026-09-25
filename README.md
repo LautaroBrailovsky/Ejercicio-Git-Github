@@ -6,10 +6,9 @@ Repositorio creado para aprender y ejercitar el flujo básico de trabajo con Git
 
 # Historial de la Práctica
 
-- Primer commit
-ddd5cb8 (HEAD -> main) El primer commit
-83bf23e (origin/main, origin/HEAD) Initial commit
-- Segundo commit y tercer commit
-ee7e945 (HEAD -> features/contactos, origin/features/contactos) Página web contacto simple
-1e5061f (origin/main, origin/HEAD, main) Añadida histotial de commits en README
-
+- 046bc91 Crear estructura inicial del proyecto
+- 83bf23e (origin/main, origin/HEAD) Initial commit
+- 1e5061f (origin/main, origin/HEAD, main) Añadida histotial de commits en README
+- ee7e945 (HEAD -> features/contactos, origin/features/contactos) Página web contacto simple
+- dc97b31 actualizado historial de commits
+- 8d6c87d (HEAD -> features/contactos, origin/main, origin/features/contactos, origin/HEAD, main) Añadida Foto por Github como prueba.
